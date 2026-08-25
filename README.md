@@ -3,6 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=A3E635&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Djaouad+%F0%9F%91%8B;I+build+AI+systems+that+work+while+you+sleep;Chatbots+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+Full-Stack" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-djaouad.tech-a3e635?style=for-the-badge&logo=vercel&logoColor=black)](https://djaouad.tech)
+[![DEV.to](https://img.shields.io/badge/Articles-@djoudad292-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/djoudad292)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-djaouad--frih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/djaouad-frih)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213780688125)
 [![Email](https://img.shields.io/badge/Email-oufr29@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oufr29@gmail.com)
@@ -19,8 +20,8 @@ I'm a freelance AI engineer from Oran, Algeria. I build production AI applicatio
 
 - 🔭 Currently building **AI receptionists & document intelligence** for clinics and small businesses
 - 🌱 Deep in **LangGraph orchestration, RAG pipelines, and MCP servers**
+- ✍️ Writing build breakdowns on [DEV.to](https://dev.to/djoudad292) — latest: *I Turned My Portfolio Into an MCP Server So AI Agents Can Hire Me*
 - 💼 Available for **freelance projects** — fixed price, code is yours
-- ⚡ Fun fact: my last AI chatbot went from zero to production in **9 days**
 
 <br/>
 
@@ -60,6 +61,12 @@ Every project ships with an **Android APK** — check the releases on each repo.
 🛠️  Full-Stack SaaS    →  Next.js + NestJS + PostgreSQL, auth/payments/websockets
 🔌  MCP Servers        →  make your product accessible to AI agents
 ```
+
+<br/>
+
+## Latest Writing
+
+- [I Turned My Portfolio Into an MCP Server So AI Agents Can Hire Me](https://dev.to/djoudad292/i-turned-my-portfolio-into-an-mcp-server-so-ai-agents-can-hire-me-227l) — build story, code, and honest results
 
 <br/>
 
