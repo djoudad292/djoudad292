@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a freelance AI engineer from Oran, Algeria. I build production AI applications — not prototypes. Systems that handle real users, real data, and real money.
+I'm a freelance AI engineer working remotely with businesses worldwide. I build production AI applications — not prototypes. Systems that handle real users, real data, and real money.
 
 - 🔭 Currently building **AI receptionists & document intelligence** for clinics and small businesses
 - 🌱 Deep in **LangGraph orchestration, RAG pipelines, and MCP servers**
@@ -107,7 +107,7 @@ Open source: [djoudad292/hireme-mcp](https://github.com/djoudad292/hireme-mcp) �
 
 ### Let's build something
 
-**Fixed price · Remote · Overlaps US/EU hours · Paid trial available**
+**Fixed price · Remote worldwide · Overlaps US/EU hours · Paid trial available**
 
 📧 **[oufr29@gmail.com](mailto:oufr29@gmail.com)** · 🌐 **[djaouad.tech](https://djaouad.tech)** · 📅 **[Book a call](https://calendly.com/oufr29/30min)**
 
