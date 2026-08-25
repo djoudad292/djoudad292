@@ -1,71 +1,86 @@
-<h1 align="center">Hi, I'm Djaouad Frih 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full Stack Developer & AI Engineer</b><br>
-  Building production-grade web apps, native mobile apps, and AI-powered products.
-</p>
+# Djaouad Frih
 
-<p align="center">
-  <a href="https://djaouad.tech">Portfolio</a> · 
-  <a href="https://linkedin.com/in/djaouad-frih">LinkedIn</a> · 
-  <a href="mailto:djaouad.frih@gmail.com">Email</a>
-</p>
+### AI Engineer · Full-Stack Developer · Oran, Algeria
 
----
+**I build AI systems that work while you sleep.**
 
-### 🚀 What I Build
+[Portfolio](https://djaouad.tech) · [MCP Server](https://github.com/djoudad292/hireme-mcp) · [LinkedIn](https://linkedin.com/in/djaouad-frih) · [Email](mailto:djaouad.frih@gmail.com)
 
-- **AI-Powered Apps** — RAG chatbots, virtual receptionists, document intelligence
-- **Full Stack Web** — Next.js, NestJS, PostgreSQL, real-time WebSocket
-- **Mobile Apps** — React Native, Android, Expo
-- **Production-Ready** — Deployed to production, serving live users
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## What I Do
 
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, React Native |
-| **Backend** | NestJS, Node.js, Express, PostgreSQL, pgvector |
-| **AI/ML** | LLMs, RAG, Gemini, OpenAI, Vector Search, Embeddings |
-| **Tools** | Git, Docker, Linux, WebSocket, REST APIs |
-| **Security** | Web Pentesting, OWASP |
+I build production AI applications — not prototypes, not demos. Systems that handle real users, real data, and real money.
 
----
+**AI Receptionists** — Chatbots that book appointments, capture leads, and hand off to humans when needed. Used by service businesses to close deals at 3 AM.
 
-### 📊 GitHub Stats
+**Document Intelligence** — Upload a 40-page contract, ask "what are the payment terms?", get an answer with page citations in 8 seconds.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djoudad292&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+**AI Agents with Tools** — MCP servers, RAG pipelines, LangGraph orchestration. Agents that don't just talk — they search, book, send, and build.
+
+**Full-Stack Apps** — Next.js frontends, NestJS backends, PostgreSQL + pgvector databases, real-time WebSocket, React Native mobile.
 
 ---
 
-### 🔥 Featured Projects
+## Live Products
 
-#### 🤖 AI Virtual Receptionist
-> 24/7 AI that books appointments, captures leads, and routes conversations — with human handoff.
-
-**Stack:** Next.js · NestJS · pgvector · React Native · Socket.io · Gemini  
-**Live:** [chat.djaouad.tech](https://chat.djaouad.tech) · [GitHub](https://github.com/djoudad292/ai-virtual-receptionist)
-
----
-
-#### 📄 Smart PDF Workspace
-> Upload PDFs, ask questions, get answers grounded in your documents with source citations.
-
-**Stack:** Next.js · NestJS · pgvector · Gemini · WebSocket  
-**Live:** [docs.djaouad.tech](https://docs.djaouad.tech) · [GitHub](https://github.com/djoudad292/smart-pdf-workspace)
+| Product | What It Does | Stack | Status |
+|---------|-------------|-------|--------|
+| [AI Virtual Receptionist](https://chat.djaouad.tech) | 24/7 chatbot that books appointments & captures leads | Next.js, NestJS, pgvector, Socket.io, Gemini | Live |
+| [Smart PDF Workspace](https://docs.djaouad.tech) | Upload PDFs, ask questions, get cited answers | Next.js, NestJS, pgvector, Gemini, WebSocket | Live |
+| [HireMe MCP](https://github.com/djoudad292/hireme-mcp) | MCP server that lets AI agents search my portfolio & hire me | Express.js, TypeScript, MCP Protocol | Live |
+| [Portfolio](https://djaouad.tech) | My portfolio — built on the product it sells (AI agents) | Next.js, NestJS, PostgreSQL, LangGraph | Live |
 
 ---
 
-### 📈 Contribution Graph
+## Tech Stack
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=djoudad292&bg_color=1a1a2e&color=e94560&line=e94560&point=ffffff&area=true&area_color=e94560&hide_border=true)
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS · React Native · Expo
+**Backend:** NestJS · Node.js · Express · PostgreSQL · pgvector · Redis · WebSocket
+**AI/ML:** LangGraph · RAG · Gemini · OpenAI · Vector Search · Embeddings · MCP
+**DevOps:** Docker · Linux · GitHub Actions · Vercel · Render · Neon
+**Security:** OWASP · Web Pentesting · API Security
 
 ---
 
-<p align="center">
-  <i>"Building AI that feels human, one commit at a time."</i>
-</p>
+## 🤖 HireMe MCP — The Portfolio AI Agents Can Hire
+
+My portfolio is an MCP server. Any AI agent (Claude, Cursor, Copilot) can:
+
+1. **Search** my projects by industry and tech stack
+2. **Get** transparent pricing (–)
+3. **Submit** a project brief through the agent
+
+No website visit. No contact form. The tool comes to the agent.
+
+**Open source:** [github.com/djoudad292/hireme-mcp](https://github.com/djoudad292/hireme-mcp)
+**MCP endpoint:** 
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=djoudad292&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djoudad292&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## Let's Build Something
+
+I'm available for:
+- **AI integration** — Add chatbots, RAG, or agents to existing apps
+- **Full-stack development** — Next.js + NestJS + PostgreSQL from zero
+- **MCP servers** — Make your product accessible to AI agents
+- **Mobile apps** — React Native / Expo for iOS + Android
+
+**📧 [djaouad.frih@gmail.com](mailto:djaouad.frih@gmail.com)**
+**🌐 [djaouad.tech](https://djaouad.tech)**
