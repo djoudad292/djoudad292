@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-djaouad.tech-a3e635?style=for-the-badge&logo=vercel&logoColor=black)](https://djaouad.tech)
 [![DEV.to](https://img.shields.io/badge/Articles-@djoudad292-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/djoudad292)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-djaouad--frih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/djaouad-frih)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-djaouad--frih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djaouad-frih-16ab7323a)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213780688125)
 [![Email](https://img.shields.io/badge/Email-oufr29@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oufr29@gmail.com)
 
